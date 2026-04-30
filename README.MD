@@ -1,4 +1,4 @@
-# Firewall nftables IP4 pour 1, 2, ou 3 interfaces
+# Firewall nftables IPv4 pour 1, 2, ou 3 interfaces
 
 
 
