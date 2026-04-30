@@ -1,4 +1,8 @@
-# Utilisation :
+# Firewall nftables IP4 pour 1, 2, ou 3 interfaces
+
+
+
+## Utilisation :
 
 - Sauvegardez ce script sous /etc/nftables.conf
 
